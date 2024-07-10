@@ -4,5 +4,5 @@ https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
 https://github.com/vasusen-code/ethon/archive/refs/tags/v0.1.5.zip
 cryptg
 tgcrypto
-pyrofork==2.2.11
+git+https://github.com/Hrishi2861/pyrofork-2.2.11-peer-fix.git
 python-decouple
